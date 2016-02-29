@@ -1,0 +1,145 @@
+1
+
+142
+backward char
+backward word
+forward word
+forward char
+delete char
+delete word
+insert "XZZIGcL.dn,,,,B8gaklugaona4t4nNxxwJO2D2vy8,.NQyzqsAhNB"
+backward word
+backward word
+backward char
+forward word
+insert "X   g5KA.DbBaSe6O pz,BYE5Z      I.,eo0o"
+backward word
+backward word
+forward word
+insert "XQUa2Z1Omfom9UPoC6Kxmvv5MwZI5TLVzMpiMsSm wby4OUavDX"
+insert "Xnsert insert"
+insert "Xpogqngjqgwiugoaipgnbwajgwipefyewhgonajgsauwiartewq0thwgwa"
+insert "gjaosagyuwqytwqtwgwakguao"
+backward word
+insert "XxqZ4 EttZck6Ftcr5Jl0twZW2n            pW8YP7Y2Zg9PGanCuWlMD08"
+forward word
+forward word
+insert "Xracious."
+forward word
+forward word
+backward word
+forward char
+delete word
+delete char
+forward char
+insert "X5KADbBaSe6OpzBYE5ZIeo0ow5IdxcUmtAZIm7Fxhal9ctLyZVB9Fw2Xy4Q"
+insert "5v9LhrLstyQd8YZITbNxxwJO2D2vqsAhNBX5KADbBaSe6OpzBYE"
+insert "5ZIeo0ow5IdxcUmtAZIm7Fxhal9ctLyZVB9Fw2Xy4Q5v9LhrLstyQd8Y"
+insert "ZITbNxxwJO2D2vqsAhNBXZti4y8hZ249857Z8hgZg9Z745Z84hyZ497"
+insert "B     Zw095ttnoZhg4Zqp7gqhgqgkurpZt8h4Zgqogire7"
+backward word
+insert "XlauZt0Z4ngewbghjgutap09e8ghq        4ngjguoiyf89wqetetqbZ"
+insert "th4yqpgqgejyewhyqoifewte    ghe"
+backward word
+insert "XjsalfiweugZ240920thg2Zgubfdquipdnfye8q97r0952nhywbgqgkqle"
+insert "8Z094Z258phZ2tewltkwtbewtpwXjsalfiweugZ240920thg2Zgubg"
+insert "fquipfyde8q97r0952nhywbgqgkqle8Z094Z258phZ2tewltkwtbewtpw"
+insert "XjsalfiweugZ2409200thg2Zgubffgquipfdye8q97r952nhywbgqgkqle8Z"
+insert "094Z258phZ2tewltkwtbewtpwXjsalfiweugZ240920thg2Zgubfquigfpfye"
+insert "8q97r052nhywbgqgkqle8Z094Z258phZ2tewltkwtbewtpw"
+insert "0123456789"
+forward word
+forward word
+forward word
+forward char
+delete char
+delete word
+backward word
+delete word
+backward word
+backward word
+forward word
+delete word
+backward word
+backward word
+forward word
+delete word
+delete word
+delete word
+backward word
+backward word
+backward word
+backward word
+backward word
+delete word
+delete word
+delete word
+delete word
+backward word
+backward char
+delete word
+insert "Xldsaugksbjaudpyiwueiowurithwgioagsal "
+insert "     rwiueotuwqeoirwrhiwpqnfa  lfdksafuwoihwgoia"
+insert "Xgkluweq095809Z24utghr498t71Z8t9gh9t725"
+insert "18thgrepwqir728t9hZgn42po58709Zhg24pZgthZ2gop27485"
+insert "XsotuZy2iop875tewqgeqjgbe8y                     ,,,,,"
+insert ",,,,,, ......................."
+backward word
+backward word
+backward word
+delete word
+delete word
+delete word
+delete char
+forward word
+insert "Xew9....................t"
+insert "uqhgewqbqe9oigengkqe,,,,,,,,,,,,hboZq"
+backward char
+insert "Xe9                       "
+insert "         ghowiu5q26io17py09hgnpoeqiy7r98"
+backward word
+backward word
+delete word
+insert "Xalgksaugoiawgnewoiqtpurwq"
+insert "9wehgwqop7tr98Z207t0gZqhgap84Z2q7r50hwqgepw"
+backward word
+backward word
+delete word
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+forward char
+delete char
+delete word
+delete word
+forward char
+insert "X"
+backward char
+backward word
+forward word
+delete word
+backward word
+backward word
+delete word
+delete char
+delete char
+delete char
+delete char
+delete char
+delete char
+delete char
+forward word
+forward word

@@ -1,0 +1,137 @@
+3
+Hello agklauoi galkgusaoi
+115
+forward word
+delete char
+forward word
+delete char
+backward word
+insert "B8Daknaryuba4u7032t53btqe034t4nNxxwJO2D2vy8,.NQy5qsAhfD"
+backward char
+backward char
+backward char
+delete char
+insert "5"
+forward char
+forward char
+insert "    D5KA.DbBaSe6O p5,.m,.,      I.,eo0o"
+backward word
+backward word
+backward word
+forward word
+forward word
+insert "eQUa251Omfom9UPoC6Kxmvv5Mw3I5TLV5MpiMsSm wby4OUavDXXX"
+insert "insert insert"
+insert "oDqnDjqDwiuDoaipDnbwajDwipefyewhDonajDsauw"
+insert "iartewq0thwDwaDjaosaDyuwqytwqtwDwakDuao"
+backward word
+insert "Hxq34 Ett3ck6Ftcr5Jl0tw5W2n  "
+insert "          pW8YP7Y23D9PDanCuWlMD08"
+forward word
+forward word
+insert "Draggoonn"
+forward word
+forward word
+backward word
+forward char
+delete word
+delete char
+forward char
+insert "D5KADbBaSe6Op5BYE55Ieo0ow5IdxcUmtA5Im7Fxhal9ctLy3VB9F"
+insert "w2Xy4Q5v9LhrLstyQd8Y3ITbNxxwJO2D2vqsAhNBD5KADbBaSe6Op"
+insert "5BYE55Ieo0ow5IdxcUmtA5Im7Fxhal9ctLy3VB9Fw2Xy4Q5v9"
+insert "LhrLstyQd8Y3ITbNxxwJO2D2vqsAhNB"
+insert "t3ti4y8h324985738hD3D93745384hy3497B     3w095ttno3"
+insert "hD43qp7DqhDqDkurp3t8h43DqoDire7"
+backward word
+insert "aewbDhjDutap09e8Dhq            4nDjDuoiyf89wqetetqb3"
+insert "th4yqpDqDejyewhyqoifewte          Dhe"
+backward word
+insert "fkdjficjsalfiweuD3240920D23Dubfquipfye8q97r0952nhywbDqDkqle"
+insert "830943258ph32tewltkwtbewtpwfjsalfidkgbalweuD3240920D23Dubfqu"
+insert "ipfye8q97r0952nhywbDqDkqle830943258ph32tewltkwtbewtpwfjsalfiw"
+insert "euD32dknals4920hD23Dubfquipfye8q97r952nhywbDqDkqle8309432"
+insert "589jfhgph32tewltkwtbewtpwfjsalfiweuD3240920tdangD23Dub"
+insert "fquipfye8q97r052nhywbDqDkqle830943258ph32tewltkwtbewtpw"
+forward word
+forward char
+delete char
+delete word
+backward word
+delete word
+backward word
+backward word
+forward word
+delete word
+backward word
+backward word
+forward word
+delete word
+delete word
+delete word
+backward word
+backward word
+backward word
+backward word
+backward word
+delete word
+delete word
+delete word
+delete word
+backward word
+backward word
+backward char
+delete word
+delete word
+delete word
+insert "a ldsauDksbjaudpyiwueiowurithwDioaDsa l      rwiu"
+insert "eotuwqeoirwrhiwpqnfa  lfdksafuwoihwDoiaaDkluweq095809324u"
+insert "tDhr498t7138t9Dh9t72518thDrepwqir728t9h3Dn42po587093hD"
+insert "24p3Dth32Dop27485ksotu3y2iop875tewqDeqjDbe8y"
+insert "                     ,,,,,,,,,,, ......................."
+backward word
+backward word
+backward word
+delete word
+delete word
+delete word
+delete char
+forward word
+insert "oew9....................tuqhDewqbqe9oiDenDkqe,,,,,,,,,,,,hbo3"
+backward char
+insert "oe9                                Dhowiu5q26io17py09hDnpoeq"
+insert "iy7r98"
+backward word
+backward word
+delete word
+backward word
+delete word
+delete word
+backward word
+backward word
+delete word
+delete word
+backward word
+backward char
+delete char
+forward word
+forward word
+Hallow, Word.
+9
+backward char
+backward word
+forward char
+delete word
+insert "ello, "
+forward word
+backward char
+backward char
+insert "l"
+
+6
+forward word
+forward char
+backward word
+backward char
+delete word
+delete char

@@ -1,0 +1,94 @@
+2
+H llo
+73
+insert "NY3ITbk,,,,,,,B8gaklugaonaryuba4u7032t53btqe034t4nNxxwJO2D2vy8,.NQyzqsAhNB"
+insert "    g5KA.DbBaSe6O pz,BYE5Z      I.,eo0o"
+backward word
+backward word
+forward word
+insert "eQUa2Z1Omfom9UPoC6Kxmvv5Mw3I5TLVzMpiMsSm wby4OUavDX"
+insert "insert insert"
+insert "epogqngjqgwiugoaipgnbwajgwipefyewhgonajgsauwiartewq0thwgwagjaosagyuwqytwqtwgwakguao"
+backward word
+insert "Hxq34 Ett3ck6Ftcr5Jl0twZW2n            pW8YP7Y23g9PGanCuWlMD08"
+forward word
+forward word
+insert "gracious."
+forward word
+forward word
+backward word
+forward char
+delete word
+delete char
+forward char
+insert "g5KADbBaSe6OpzBYE5ZIeo0ow5IdxcUmtAZIm7Fxhal9ctLy3VB9Fw2Xy4Q5v9LhrLstyQd8Y3ITbNxxwJO2D2vqsAhNB"
+insert "g5KADbBaSe6OpzBYE5ZIeo0ow5IdxcUmtAZIm7Fxhal9ctLy3VB9Fw2Xy4Q5v9LhrLstyQd8Y3ITbNxxwJO2D2vqsAhNB"
+insert "t3ti4y8h324985738hg3g93745384hy3497B     3w095ttno3hg43qp7gqhgqgkurp3t8h43gqogire7"
+backward word
+insert "alau3t034ngewbghjgutap09e8ghq        4ngjguoiyf89wqetetqb3th4yqpgqgejyewhyqoifewte    ghe"
+backward word
+insert "kdpog3240920thg23gubfquipfye8q97r0952nhywbgqgkqle830943258ph32tewltkwtbewtpw"
+insert "fjsalfiweug32409203gubfquipfye8q97r0952nhywbgqgkqle830943258ph32tewltkwtbewtpw"
+insert "fjsalfiw32409200thg23gubfquipfye8q97r952nhywbgqgkqle830943258ph32tewltkwtbewtpw"
+insert "fiweug3240920thg23gubfquipfye8q97r052nhywbgqgkqle830943258ph32tewltkwtbewtpw"
+forward word
+forward word
+forward word
+forward char
+delete char
+delete word
+backward word
+delete word
+backward word
+backward word
+forward word
+delete word
+backward word
+backward word
+forward word
+delete word
+delete word
+delete word
+backward word
+backward word
+backward word
+backward word
+backward word
+backward word
+delete word
+delete word
+delete word
+delete word
+delete word
+backward word
+backward word
+backward char
+delete word
+delete word
+delete word
+forward word
+forward char
+backward word
+backward word
+backward char
+delete word
+forward word
+forward char
+insert forward char
+16
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+delete word
+forward char
+forward word
+delete char
+delete word
+backward char
+backward word
+insert "insert forward char"
